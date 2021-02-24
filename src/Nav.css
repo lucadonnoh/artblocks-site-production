@@ -1,3 +1,15 @@
+.navBar .nav-link {
+  color: black !important; 
+}
+
+.navBar .navbar-brand {
+  font-weight: 600;
+}
+
+.navBar a {
+  font-weight: 500;
+}
+
 .navBar ul.dropdown-menu {
   max-height: 300px;
   overflow-y: auto;

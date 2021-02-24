@@ -105,7 +105,7 @@ class Navigation extends Component {
     //let etherscanAddy = `https://etherscan.io/address/${this.props.account}`;
     return (
       <div>
-        <Navbar className="navBar" fixed="top" bg="light" expand="lg">
+        <Navbar className="navBar" fixed="top" expand="lg">
           <Navbar.Brand
             as={Link}
             onClick={() => {
